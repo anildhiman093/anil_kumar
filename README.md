@@ -1,27 +1,19 @@
-<!-- Modern GitHub Profile README -->
+<!-- 🚀 Modern & Animated GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Anil+Kumar!;Full-Stack+Developer+%7C+E-commerce+Expert;Creating+Scalable%2C+High-Performance+Websites" alt="Typing animation">
+  <span style="font-size: 38px; font-weight: bold; color: #ff6600;">Hey, I'm Anil Kumar! 👋</span>
 </h1>
 
-<!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Remote%20Developer-✔️-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Affordable%20Pricing-✔️-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/200%2B%20Projects%20Completed-✔️-red?style=flat-square" />
-</p>
-
-<!-- Animated Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=ff6600&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+Developer+%7C+E-commerce+Expert;Creating+Scalable%2C+High-Performance+Websites" alt="Typing animation">
 </p>
 
 ---
 
-## 🚀 Who Am I?
-✅ **5+ Years of Experience in Full-Stack Development**
-✅ **200+ Projects Delivered using Shopify, WordPress, Magento, Laravel, React & Node.js**
-✅ **Expert in Scalable & High-Performance Websites**
-✅ **Providing Remote Work Globally | Cost-Effective & High-Quality Work**
+## 🚀 About Me
+🎯 **5+ Years of Full-Stack Development Experience**  
+🚀 **200+ Projects Delivered in Shopify, WordPress, Magento, Laravel, React & Node.js**  
+💡 **Scalable & High-Performance Web Solutions**  
+💼 **Remote Work Globally | Cost-Effective & High-Quality Development**  
 
 📧 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
 📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)  
@@ -57,8 +49,9 @@
 
 ---
 
-## 📡 How to Hire Me?
-🚀 **Want a high-quality website at an affordable price? Let’s work together!**
+## 💼 Hire Me!
+🌟 **Looking for a professional developer at an affordable price?**  
+💻 **Let’s build something amazing together!**
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
@@ -72,7 +65,7 @@
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/anil-kumar-713b07144" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
