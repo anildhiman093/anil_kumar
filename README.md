@@ -6,9 +6,9 @@
 <h1 align="center">Hi there, I'm <span style="color:#ff6600;">Anil Kumar</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=_anilkumar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/_anilkumar?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/_anilkumar?style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=anildhiman093&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/anildhiman093?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/anildhiman093?style=social" alt="GitHub Stars"/>
 </p>
 
 ---
@@ -16,9 +16,11 @@
 ## 🌟 **About Me**
 - 🎯 **Full-Stack Developer** | **E-commerce Expert** | **Tech Enthusiast**  
 - 🏆 5+ Years of experience in **Shopify, WordPress, Magento, Laravel, React, Node.js, Next.js, Nest.js, Angular**  
-- 🚀 Passionate about **scalable web solutions, optimized UI/UX, and modern web technologies**  
-- 🛠️ Helping businesses build **high-performance websites & web applications**  
-- 📬 Contact me: **[anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)**  
+- 🏗️ Worked with **over 100+ projects**, including **custom e-commerce solutions, business websites, and web applications**  
+- 🔥 Specialized in **performance optimization, SEO-friendly development, and scalable architectures**  
+- 🚀 Passionate about **cutting-edge technologies and modern web development trends**  
+- 🛠️ Helping businesses build **high-performance, conversion-focused online stores & web platforms**  
+- 📬 Contact me: **[anilkumar@example.com](mailto:anilkumar@example.com)**  
 
 ---
 
@@ -55,19 +57,19 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anil_kumar&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil_kumar&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil_kumar&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anildhiman093&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anildhiman093&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anildhiman093&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📚 **Latest Projects**
-- 🚀 **[E-commerce Platform](https://github.com/_anilkumar/ecommerce-platform)**  
+- 🚀 **[E-commerce Platform](https://github.com/anildhiman093/ecommerce-platform)**  
   🛍️ Shopify & Magento-based online store with advanced features.  
-- 🎨 **[Portfolio Website](https://github.com/_anilkumar/portfolio-website)**  
+- 🎨 **[Portfolio Website](https://github.com/anildhiman093/portfolio-website)**  
   💼 Interactive portfolio showcasing my work.  
-- 🔥 **[React Dashboard](https://github.com/_anilkumar/react-dashboard)**  
+- 🔥 **[React Dashboard](https://github.com/anildhiman093/react-dashboard)**  
   📊 Custom admin panel using React & Node.js.  
 
 ---
