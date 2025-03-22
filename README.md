@@ -1,4 +1,4 @@
-<!-- Animated Typing Effect -->
+<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+👋%2C+I'm+Anil+Kumar!;Full-Stack+Developer+%7C+E-commerce+Expert;Creating+Scalable%2C+High-Performance+Websites">
 </h1>
@@ -14,8 +14,10 @@
 
 ## 🚀 **Who Am I?**
 🔹 **5+ Years of Experience** in Web & E-commerce Development  
-🔹 **200+ Projects Successfully Delivered** (Shopify, WordPress, Magento, Laravel, React, Node.js)  
-🔹 **SEO & Performance Optimization Specialist (90+ PageSpeed Score)**  
+🔹 **200+ Projects Successfully Delivered** using **Shopify, WordPress, Magento, Laravel, React & Node.js**  
+🔹 **Expert in Full-Stack Development** → Frontend & Backend Mastery  
+🔹 **E-commerce Specialist** → Shopify, Magento, WooCommerce  
+🔹 **SEO & Performance Optimization Specialist** (90+ PageSpeed Score)  
 🔹 **Providing Remote Work Globally | Cost-Effective & High-Quality Work**  
 🔹 **100% Client Satisfaction & Long-Term Collaborations**  
 
@@ -24,37 +26,48 @@
 
 ---
 
-## 🔥 **Tech Stack & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,nodejs,express,php,laravel,mysql,mongodb,firebase,aws,wordpress,shopify,magento,html,css,tailwind" />
-</p>
+## 🔥 **Tech Stack & Tools**  
+
+### 🎨 **Front-End Development**  
+- **HTML5, CSS3, JavaScript, TypeScript**  
+- **React.js, Next.js, Angular.js**  
+- **Bootstrap, Tailwind CSS, Material UI**  
+
+### ⚙️ **Back-End Development**  
+- **Node.js, Express.js**  
+- **PHP, Laravel**  
+- **Nest.js, Django**  
+
+### 🗄️ **Database Management**  
+- **MySQL, PostgreSQL**  
+- **MongoDB, Firebase**  
+
+### ☁️ **Cloud & Servers**  
+- **AWS (EC2, S3, Lambda)**  
+- **Vercel, Netlify**  
+- **Apache, Nginx**  
 
 ---
 
-## 🛠️ **Why Choose Me Over Others?**
-✔ **Expert in Full-Stack Development** → **Frontend & Backend Mastery**  
-✔ **E-commerce Specialist** → **Shopify, Magento, WooCommerce Pro**  
-✔ **Performance Focused** → **90+ Google PageSpeed Score Websites**  
-✔ **Affordable Remote Developer** → **High-Quality Work at Low Cost**  
-✔ **Client-Centric Approach** → **Ensuring Long-Term Business Growth**  
-✔ **Smooth UI/UX & SEO Optimization** → **Attract More Visitors & Sales**  
+## 📡 **How to Hire Me?**
+🚀 **Want a high-quality website at an affordable price? Let’s work together!**  
+🎯 **I provide cost-effective solutions for businesses & startups.**  
+📈 **If you're looking for a reliable developer, I am the right choice.**  
 
----
-
-## 📡 **Hire Me & Let's Build Something Amazing!**
+### **📢 Click Below to Hire Me Now!**
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank" style="text-decoration: none;">
+  <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-ff6600?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
   <br><br>
-  <a href="https://wa.me/918591006815" target="_blank" style="text-decoration: none;">
+  <a href="https://wa.me/918591006815" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Let’s Connect**
 <p align="center">
 <a href="https://www.linkedin.com/in/anil-kumar-713b07144" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -69,14 +82,17 @@
 
 ---
 
-## 💡 **Client Testimonials**
-🌟 "Anil is one of the best developers I've worked with. Highly professional and skilled!"  
-🌟 "He optimized my Shopify store, and my sales increased by 50%!"  
-🌟 "Very fast delivery & affordable pricing. Highly recommended!"  
+## ⭐ **Client Testimonials**
+🌟 **"Anil is one of the best developers I've worked with. Highly professional and skilled!"**  
+🌟 **"He optimized my Shopify store, and my sales increased by 50%!"**  
+🌟 **"Very fast delivery & affordable pricing. Highly recommended!"**  
 
 ---
 
-## 🎯 **Fun Fact**
-🔥 **"A Well-Optimized Website = More Conversions & Revenue!"** 🚀  
+## 🎯 **Why You Should Work With Me?**
+🔹 **Fast & Efficient Work** – I deliver high-quality websites **within deadlines.**  
+🔹 **E-commerce Growth Expert** – I don’t just develop stores, I help businesses **increase revenue.**  
+🔹 **Long-Term Support** – Even after the project is complete, **I am always available for support.**  
+🔹 **Budget-Friendly Solutions** – High-quality work **at the most affordable prices.**  
 
 ---
