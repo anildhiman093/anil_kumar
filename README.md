@@ -26,26 +26,38 @@
 
 ---
 
-## 🔥 **Tech Stack & Tools**  
+## 🔥 **Tech Stack & Tools**
+### 🎨 **Front-End Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-### 🎨 **Front-End Development**  
-- **HTML5, CSS3, JavaScript, TypeScript**  
-- **React.js, Next.js, Angular.js**  
-- **Bootstrap, Tailwind CSS, Material UI**  
+### ⚙️ **Back-End Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-### ⚙️ **Back-End Development**  
-- **Node.js, Express.js**  
-- **PHP, Laravel**  
-- **Nest.js, Django**  
+### 🗄️ **Database Management**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-### 🗄️ **Database Management**  
-- **MySQL, PostgreSQL**  
-- **MongoDB, Firebase**  
-
-### ☁️ **Cloud & Servers**  
-- **AWS (EC2, S3, Lambda)**  
-- **Vercel, Netlify**  
-- **Apache, Nginx**  
+### ☁️ **Cloud & Servers**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
@@ -79,20 +91,5 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 </p>
-
----
-
-## ⭐ **Client Testimonials**
-🌟 **"Anil is one of the best developers I've worked with. Highly professional and skilled!"**  
-🌟 **"He optimized my Shopify store, and my sales increased by 50%!"**  
-🌟 **"Very fast delivery & affordable pricing. Highly recommended!"**  
-
----
-
-## 🎯 **Why You Should Work With Me?**
-🔹 **Fast & Efficient Work** – I deliver high-quality websites **within deadlines.**  
-🔹 **E-commerce Growth Expert** – I don’t just develop stores, I help businesses **increase revenue.**  
-🔹 **Long-Term Support** – Even after the project is complete, **I am always available for support.**  
-🔹 **Budget-Friendly Solutions** – High-quality work **at the most affordable prices.**  
 
 ---
