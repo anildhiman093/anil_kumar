@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=600&lines=🚀+Full-Stack+Developer+|+E-commerce+Expert;⚡+Shopify+|+Magento+|+WordPress+|+Laravel;🔥+Building+Scalable+Web+Apps+with+React+|+Node.js;📈+200%2B+Projects+Completed;💡+Optimized+for+Performance+and+SEO">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=600&lines=🚀+Full-Stack+Developer+|+E-commerce+Expert;⚡+Shopify+|+Magento+|+WordPress+|+Laravel;🔥+Building+Scalable+Web+Apps+with+React+|+Node.js;📈+200%2B+Projects+Completed;💡+Remote+Developer+|+Available+on+Upwork+|+Affordable+Rates">
 </p>
 
 <!-- Profile Banner -->
@@ -18,6 +18,8 @@
 - ✅ **200+ Successful Projects** - **High-performance websites & e-commerce stores**  
 - 🔥 **Expert in performance optimization, SEO-friendly development & scalable architectures**  
 - 🚀 Helping businesses **increase revenue through top-notch web solutions**  
+- 🌍 **I work remotely and offer affordable pricing for high-quality work!**  
+- 💼 **Hire Me on Upwork:** [Click Here](https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share)  
 - 📬 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
 
 ---
@@ -67,6 +69,8 @@
 ✅ **200+ Projects Completed** with 100% Client Satisfaction  
 ✅ **Fast, Secure & Optimized Solutions**  
 ✅ **Available for Long-Term Projects & Partnerships**  
+✅ **Remote Developer with Affordable Pricing**  
+✅ **Easily Hire Me on [Upwork](https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share)**  
 
 ---
 
