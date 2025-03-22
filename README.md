@@ -14,6 +14,8 @@
 🚀 **200+ Projects Delivered in Shopify, WordPress, Magento, Laravel, React & Node.js**  
 💡 **Scalable & High-Performance Web Solutions**  
 💼 **Remote Work Globally | Cost-Effective & High-Quality Development**  
+🌍 **Experience Across Multiple Industries (E-commerce, Healthcare, Finance, EdTech, etc.)**  
+⏳ **I Prefer Long-Term Collaborations to Build Reliable & Scalable Systems**  
 
 📧 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
 📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)  
