@@ -1,21 +1,21 @@
-<!-- 🚀 Modern & Animated GitHub Profile README -->
+<!-- 🚀 High-Tech Animated GitHub Profile README -->
 <h1 align="center">
-  <span style="font-size: 38px; font-weight: bold; color: #ff6600;">Hey, I'm Anil Kumar! 👋</span>
+  <span style="font-size: 42px; font-weight: bold; color: #ff6600;">Hey, I'm Anil Kumar! 👋</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=ff6600&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+Developer+%7C+E-commerce+Expert;Creating+Scalable%2C+High-Performance+Websites" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&width=900&height=90&lines=Full-Stack+Developer+%7C+E-commerce+Expert;Building+Scalable%2C+Secure+%26+High-Performance+Web+Apps" alt="Typing animation">
 </p>
 
 ---
 
 ## 🚀 About Me
-🎯 **5+ Years of Full-Stack Development Experience**  
-🚀 **200+ Projects Delivered in Shopify, WordPress, Magento, Laravel, React & Node.js**  
-💡 **Scalable & High-Performance Web Solutions**  
-💼 **Remote Work Globally | Cost-Effective & High-Quality Development**  
-🌍 **Experience Across Multiple Industries (E-commerce, Healthcare, Finance, EdTech, etc.)**  
-⏳ **I Prefer Long-Term Collaborations to Build Reliable & Scalable Systems**  
+✅ **5+ Years of Full-Stack Development Expertise**  
+✅ **Delivered 200+ Projects in Shopify, WordPress, Magento, Laravel, React & Node.js**  
+✅ **Scalable, Secure & High-Performance Web Applications**  
+✅ **Remote Work Globally | Budget-Friendly & Premium-Quality Development**  
+✅ **Worked Across Multiple Industries (E-commerce, Healthcare, Finance, EdTech & More)**  
+✅ **Prefer Long-Term Partnerships to Build Stable & Scalable Solutions**  
 
 📧 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
 📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)  
@@ -25,35 +25,35 @@
 ## 🔥 Tech Stack & Tools
 
 ### 🎨 Front-End Development
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,sass,bootstrap,tailwind" />
-</p>
+</div>
 
 ### ⚙️ Back-End Development
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,flask,nestjs" />
-</p>
+</div>
 
 ### 🗄️ Database Management
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,supabase" />
-</p>
+</div>
 
 ### ☁️ Cloud & Servers
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,digitalocean" />
-</p>
+</div>
 
 ### 🛠️ DevOps & Tools
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,jenkins,postman,figma" />
-</p>
+</div>
 
 ---
 
 ## 💼 Hire Me!
-🌟 **Looking for a professional developer at an affordable price?**  
-💻 **Let’s build something amazing together!**
+🌟 **Need a highly skilled developer at an affordable rate?**  
+💻 **Let's collaborate and create something impactful!**
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
