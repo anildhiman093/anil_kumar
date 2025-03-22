@@ -18,7 +18,7 @@
 - 🏆 5+ Years of experience in **Shopify, WordPress, Magento, Laravel, React, Node.js, Next.js, Nest.js, Angular**  
 - 🚀 Passionate about **scalable web solutions, optimized UI/UX, and modern web technologies**  
 - 🛠️ Helping businesses build **high-performance websites & web applications**  
-- 📬 Contact me: **[anilkumar@example.com](mailto:anilkumar@example.com)**  
+- 📬 Contact me: **[anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)**  
 
 ---
 
@@ -55,9 +55,12 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=_anilkumar&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=_anilkumar&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_anilkumar&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anil_kumar
+r&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil_kumar
+&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil_kumar
+&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
