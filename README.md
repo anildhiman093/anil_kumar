@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/200%2B%20Projects%20Completed-✔️-red?style=flat-square" />
 </p>
 
-
+---
 
 ## 🌟 **About Me**
 🚀 **Full-Stack Developer | E-commerce Expert | Web Performance Specialist**  
@@ -17,17 +17,18 @@
 ✅ **200+ High-Performance Web Projects Delivered**  
 📈 **SEO & Speed Optimization Expert (90+ PageSpeed Score)**  
 💡 **Remote Developer | Affordable Pricing | Long-Term Collaborations**  
-💼 **Hire Me on Upwork:** 👉 [Click Here](https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share)  
+
 📬 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
+📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)  
 
-
+---
 
 ## 🛠️ **Tech Stack & Expertise**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,nodejs,express,php,laravel,mysql,mongodb,firebase,aws,wordpress,shopify,magento,html,css,tailwind" />
 </p>
 
-
+---
 
 ## 🚀 **Key Skills**
 ✔ **E-commerce Development:** Shopify, Magento, WooCommerce  
@@ -38,11 +39,16 @@
 
 ---
 
-## 📌 **Work Portfolio**
-🔹 **E-commerce Solutions** → **Shopify, Magento & WooCommerce**  
-🔹 **Web Applications** → **React, Node.js, Laravel, WordPress**  
-🔹 **Performance Optimization** → **90+ Speed Score on Google PageSpeed**  
-🔹 **Multi-Vendor Marketplaces & Scalable Architectures**  
+## 📡 **Hire Me**
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-ff6600?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+  <br><br>
+  <a href="https://wa.me/918591006815" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
@@ -59,7 +65,7 @@
 </a>
 </p>
 
-
+---
 
 ## 💼 **Why Choose Me?**
 ✅ **Full-Stack Development Expertise** (Frontend & Backend)  
@@ -70,9 +76,11 @@
 ✅ **Long-Term Availability for Upwork Projects**  
 
 💼 **Hire Me on Upwork:** 👉 [Click Here](https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share)  
+📞 **WhatsApp Direct Chat:** 👉 [+918591006815](https://wa.me/918591006815)  
 
-
+---
 
 ## 🎯 **Fun Fact**
 🔥 **"A Well-Optimized Website = More Conversions & Revenue!"** 🚀  
 
+---
